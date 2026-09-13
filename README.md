@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=200&section=header&text=Hi,%20I'm%20Nidhi%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Software%20Engineer%20%7C%20GenAI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=200&section=header&text=Hi%2C%20I%27m%20Nidhi%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Software%20Engineer%20%7C%20GenAI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nidhi-kumari-k241228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nidhigupta2462@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
