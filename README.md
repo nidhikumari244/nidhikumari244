@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=200&section=header&text=Hi,%20I'm%20Nidhi%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20in%20training%20%7C%20GenAI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=200&section=header&text=Hi,%20I'm%20Nidhi%20Kumari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Software%20Engineer%20%7C%20GenAI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nidhi-kumari-k241228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nidhigupta2462@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/nidhi_kumari62"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+GenAI-powered+applications+%F0%9F%A4%96;Training+computer+vision+models+%F0%9F%91%81%EF%B8%8F;9.17+CGPA+%7C+B.Tech+CSE+(AI%2FML);Open+to+AI%2FML+%26+Data+Engineering+internships+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=1F3864&vCenter=true&size=20&pause=1500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+GenAI-powered+applications+%F0%9F%A4%96;Training+computer+vision+models+%F0%9F%91%81%EF%B8%8F;Software+Developer+%7C+CSE+Student+%7C+9.17+CGPA;Open+to+AI%2FML%2C+Software+%26+Data+roles+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=1F3864&vCenter=true&size=20&pause=1500"/>
 
 </div>
 
@@ -19,9 +18,10 @@
 ```yaml
 education: "B.Tech, Computer Science & Engineering (AI/ML) — Sarala Birla University"
 cgpa: 9.17 / 10
+background: ["Software Development", "Data Structures & Algorithms", "AI/ML"]
 current_focus: ["Generative AI", "RAG & Agentic Workflows", "Computer Vision"]
 past_internships: ["ML/DL Intern @ BIT Sindri", "AI/ML Intern @ NIAMT, Ranchi"]
-looking_for: "AI/ML • GenAI • Data Engineering internships"
+looking_for: "Software Development • AI/ML • Data Engineering — Internships & Full-time roles"
 ```
 
 <br/>
@@ -137,6 +137,6 @@ Built with Streamlit + Groq API
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7BC8,100:1F3864&height=100&section=footer"/>
 
-**Open to AI/ML, GenAI, and Data Engineering internships 🚀**
+**Open to Software Development, AI/ML & Data Engineering roles — Internships & Full-time 🚀**
 
 </div>
