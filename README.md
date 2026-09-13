@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nidhi Kumari
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-### AI/ML & Software Engineer | GenAI · Computer Vision · Data Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7BC8&height=200&section=header&text=Nidhi%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20ML%20and%20Software%20Engineer%20-nl-%20GenAI%20Computer%20Vision%20Data%20Engineering&descAlignY=58&descSize=17" width="100%" alt="Nidhi Kumari - AI/ML and Software Engineer"/>
 
 <a href="https://www.linkedin.com/in/nidhi-kumari-k241228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nidhigupta2462@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
